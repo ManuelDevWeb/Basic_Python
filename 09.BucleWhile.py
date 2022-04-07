@@ -9,8 +9,6 @@ def run():
         print('2 elevado a '+ str(contador)+' es igual a: '+ str(potencia_2))
         contador+=1
     
-
-
 # Punto de entrada programa de pyton
 if __name__ == '__main__':
     run()
